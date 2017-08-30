@@ -2,7 +2,7 @@
 Visual Flow is a powerful tool, but it does have its limitations. This library contains Apex Classes that will help you to do things in Flow that are difficult or impossible to do.
 
 Currently, the Library contains these Flow Utilities:
-[DedupeStringCollection](#DedupeStringCollection)
+[DedupeStringCollection](#dedupestringcollection)
 
 ### DedupeStringCollection
 Have you ever needed to deduplicate a String Collection in a Flow? You could use Loops, Decisions and Assignments to do this in Flow but it's not efficient and will fail if your Collection is too large. Instead, just pass this Flow Utility the String Collection you need to dedupe and it'll return a deduped version.
