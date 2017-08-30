@@ -2,14 +2,14 @@
  * Author: Brett Barlow                                                        *
  * Created Date: 8/27/2017                                                     *
  *******************************************************************************
- * Description: To transform a collection of strings into a comma separated    *
+ * Description: To transform a collection of strings into a comma seperated    *
  * sentence without an oxford comma, follow these instructions:                *
  *   1. Drag the FlowUtility_NoOxfordComma Apex Class into the Flow Designer   *
  *   2. Assign the String Collection Variable that contains your values to     *
  *      the String Collection input                                            *
- *   3. Assign the word you would like to use at the end of the list of values *
- *      to the Finishing Word input. If my Finishing Word was: or, I would     *
- *      end up with something like this: Value1, Value2 or Value3              *
+ *   3. Assign the word you would like to use to seperate the 2nd to last and  *
+ *      last values to the Finishing Word input.                               *
+ *      Example with "and" as my Finishing Word: Value 1, Value 2 and Value 3  *
  *   4. Assign the output to the String Variable you would like to contain the *
  *      comma seperated sentence without an oxford comma                       *                                        *
  *   5. The Apex Class handles the rest                                        *
