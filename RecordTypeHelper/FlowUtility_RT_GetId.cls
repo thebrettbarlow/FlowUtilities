@@ -7,13 +7,14 @@
  *   1. Drag the FlowUtility_RT_Setup Apex Class into the Flow Designer      *
  *   2. Assign the output into a Collection Variable for you to use later    *
  *   3. When you are ready to get a RecordTypeId, drag the                   *
- *   FlowUtility_RT_GetId class into the Flow Designer and assign the        *
- *   Object API Name, RecordType Developer Name and RT String Collection you *
- *   just populated into the Input variables                                 *
+ *      FlowUtility_RT_GetId class into the Flow Designer and assign the     *
+ *      Object API Name, RecordType Developer Name and RT String Collection  *
+ *      you just populated into the Input variables                          *
  *   4. The Apex Classes handle the rest                                     *
  *****************************************************************************
  * Other Notes:                                                              *
  *   - More information about this utility and others can be found here:     *
+ *     https://github.com/thebrettbarlow/FlowUtilities                       *
  *   - Only use this Apex Class with Visual Flow                             *
  *****************************************************************************/
 public with sharing class FlowUtility_RT_GetId {

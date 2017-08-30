@@ -16,6 +16,7 @@
  *******************************************************************************
  * Other Notes:                                                                *
  *   - More information about this utility and others can be found here:       *
+ *     https://github.com/thebrettbarlow/FlowUtilities                         *
  *   - Only use this Apex Class with Visual Flow                               *
  *******************************************************************************/
 public with sharing class FlowUtility_NoOxfordComma {

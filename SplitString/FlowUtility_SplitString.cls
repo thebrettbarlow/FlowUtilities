@@ -2,7 +2,7 @@
  * Author: Brett Barlow                                                      *
  * Created Date: 8/27/2017                                                   *
  *****************************************************************************
- * Description: To split a strings, follow these instructions:               *
+ * Description: To split a string, follow these instructions:                *
  *   1. Drag the FlowUtility_SplitString Apex Class into the Flow Designer   *
  *   2. Assign the String Variable you would like to split to the            *
  *      String To Split input                                                *
@@ -14,6 +14,7 @@
  *****************************************************************************
  * Other Notes:                                                              *
  *   - More information about this utility and others can be found here:     *
+ *     https://github.com/thebrettbarlow/FlowUtilities                       *
  *   - Only use this Apex Class with Visual Flow                             *
  *****************************************************************************/
 public with sharing class FlowUtility_SplitString {
