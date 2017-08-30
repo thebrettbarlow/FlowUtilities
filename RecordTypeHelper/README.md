@@ -3,6 +3,6 @@ Do you ever have Flows that need multiple Record Type Ids? Wouldn't it be nice t
 
 You first call a Setup Apex Class that gets your active Record Types. Then each time you need to get one, you call a GetId Apex Class that'll return the Record Type Id as a String Variable for you based on the Object Name and Developer Name of the Record Type.  
 
-For more information on how to use this, check out [the video on my website](http://brettbarlow.com) and the comments within the Apex Class.  
+For more information on how to use this, check out [the video on my website](http://brettbarlow.com) and the comments within the Apex Classes.  
 
 [Back to All Flow Utilities](/../../)
