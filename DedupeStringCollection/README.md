@@ -3,6 +3,6 @@ Have you ever needed to deduplicate a String Collection in a Flow? You could use
 
 For more information on how to use this, check out the the comments within the Apex Class and the video below:  
 
-[![DedupeStringCollection How-To Video](https://img.youtube.com/vi/123/0.jpg)](https://www.youtube.com/watch?v=123)
+[![DedupeStringCollection How-To Video](https://img.youtube.com/vi/LY_LBJmkTY8/0.jpg)](https://www.youtube.com/watch?v=LY_LBJmkTY8)
 
 [Back to All Flow Utilities](/../../)
