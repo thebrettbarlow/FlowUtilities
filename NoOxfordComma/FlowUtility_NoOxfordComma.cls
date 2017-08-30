@@ -2,7 +2,7 @@
  * Author: Brett Barlow                                                        *
  * Created Date: 8/27/2017                                                     *
  *******************************************************************************
- * Description: To transform a collection of strings into a comma seperated    *
+ * Description: To transform a collection of strings into a comma separated    *
  * sentence without an oxford comma, follow these instructions:                *
  *   1. Drag the FlowUtility_NoOxfordComma Apex Class into the Flow Designer   *
  *   2. Assign the String Collection Variable that contains your values to     *
