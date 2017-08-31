@@ -20,7 +20,7 @@ Just pass it the String Collection and Finishing Word you want to use and it'll 
 Click here to [Dive Deeper](./NoOxfordComma) or here to go [Back to the Top](#salesforce-flow-utilities-library)
 
 ### RecordTypeHelper
-Do you ever have Flows that need multiple Record Type Ids? Wouldn't it be nice to just do 1 Lookup that gets all the active Record Types so you can reference them later? Well that's what this Flow Utility does.
+Do you ever have Flows that need multiple Record Type Ids? Wouldn't it be nice to just do 1 Lookup that gets all the active Record Types so you can reference them later? Well, that's what this Flow Utility does.
 
 You first call a Setup Apex Class that gets your active Record Types. Then each time you need to get one, you call a GetId Apex Class that'll return the Record Type Id as a String Variable for you based on the Object Name and Developer Name of the Record Type.  
 
