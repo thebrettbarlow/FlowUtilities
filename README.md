@@ -27,7 +27,7 @@ You first call a Setup Apex Class that gets your active Record Types. Then each 
 Click here to [Dive Deeper](./RecordTypeHelper) or here to go [Back to the Top](#salesforce-flow-utilities-library)
 
 ### SplitString
-I've been splitting String Variables in my Flows for a long time and it's always way harder than it needs to be. Did you know there's a .split() method in Apex? That's way easier!
+Splitting String Variables in Flows is way harder than it needs to be. Did you know there's a .split() method in Apex? That's way easier!
 
 Just pass this the String Variable you need to split, tell it which character separates your values and it'll pass you back a String Collection Variable containing those values.  
 
