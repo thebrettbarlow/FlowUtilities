@@ -1,5 +1,5 @@
 # Salesforce Flow Utilities Library
-Visual Flow is a powerful tool, but does have its limitations. This library contains Apex Classes that will help you to do things in Flow that are difficult or impossible to do without using Apex.
+Visual Flow is a powerful tool, but does have its limitations. This library contains Apex Classes that will help you do things in Flow that are difficult or impossible to do without using Apex.
 
 Currently, the Library contains these Flow Utilities:
 * [DedupeStringCollection](#dedupestringcollection)
