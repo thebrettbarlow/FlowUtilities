@@ -1,8 +1,8 @@
-/**************************************************************************
- * Author: Brett Barlow                                                   *
- * Created Date: 8/27/2017                                                *
- * Description: To test the FlowUtility_DedupeStringCollection Apex Class *
- **************************************************************************/
+/**
+ * @author   Brett Barlow
+ * @version  1.0, 27 Aug 2017
+ * @see      <a href="https://github.com/thebrettbarlow/FlowUtilities">GitHub Page</a>
+ */
 @isTest
 private class FlowUtility_DedupeStringCollectionTest {
     private static List<String> myStrings = new List<String>{
@@ -11,10 +11,10 @@ private class FlowUtility_DedupeStringCollectionTest {
 
     static testMethod void testDedupeStringCollection() {
         // Set up the request
-        List<FlowUtility_DeDupeStringCollection.FlowRequest> flowRequests =
-                new List<FlowUtility_DeDupeStringCollection.FlowRequest>();
-        FlowUtility_DeDupeStringCollection.FlowRequest flowRequest =
-                new FlowUtility_DeDupeStringCollection.FlowRequest();
+        List<FlowUtility_DedupeStringCollection.FlowRequest> flowRequests =
+                new List<FlowUtility_DedupeStringCollection.FlowRequest>();
+        FlowUtility_DedupeStringCollection.FlowRequest flowRequest =
+                new FlowUtility_DedupeStringCollection.FlowRequest();
         flowRequest.myStrings = myStrings;
         flowRequests.add(flowRequest);
 
