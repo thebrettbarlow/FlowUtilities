@@ -1,8 +1,8 @@
-/***************************************************************
- * Author: Brett Barlow                                        *
- * Created Date: 8/27/2017                                     *
- * Description: To test the FlowUtility_SplitString Apex Class *
- ***************************************************************/
+/**
+ * @author   Brett Barlow
+ * @version  1.0, 27 Aug 2017
+ * @see      <a href="https://github.com/thebrettbarlow/FlowUtilities">GitHub Page</a>
+ */
 @isTest
 private class FlowUtility_SplitStringTest {
     private static String myString = 'First;Second; Third;First';

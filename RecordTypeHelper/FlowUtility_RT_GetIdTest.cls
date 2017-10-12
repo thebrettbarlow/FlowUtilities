@@ -1,8 +1,8 @@
-/************************************************************
- * Author: Brett Barlow                                     *
- * Created Date: 8/27/2017                                  *
- * Description: To test the FlowUtility_RT_GetId Apex Class *
- ************************************************************/
+/**
+ * @author   Brett Barlow
+ * @version  1.0, 27 Aug 2017
+ * @see      <a href="https://github.com/thebrettbarlow/FlowUtilities">GitHub Page</a>
+ */
 @IsTest
 private class FlowUtility_RT_GetIdTest {
     static testMethod void getRT() {
